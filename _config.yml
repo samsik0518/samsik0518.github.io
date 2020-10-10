@@ -12,6 +12,9 @@ user_title: Kim Mido's Clutter Libary.
 email: samsik0518@gmail.com
 twitter_username: walwalmungmung9
 github_username:  samsik0518
+instagram_username:
+facebook_username:
+linkedin_username:
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
